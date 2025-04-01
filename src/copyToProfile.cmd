@@ -1,0 +1,1 @@
+copy /y firebotInflationCommand.js "%APPDATA%\Firebot\v5\profiles\Main Profile\scripts"
